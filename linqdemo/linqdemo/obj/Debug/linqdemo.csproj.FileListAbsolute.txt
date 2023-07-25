@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\linqdemo\linqdemo\obj\Debug\linqdemo.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\linqdemo\linqdemo\obj\Debug\linqdemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\linqdemo\linqdemo\obj\Debug\linqdemo.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\linqdemo\linqdemo\bin\Debug\linqdemo.exe.config
+C:\Users\grgic\source\repos\linqdemo\linqdemo\bin\Debug\linqdemo.exe
+C:\Users\grgic\source\repos\linqdemo\linqdemo\bin\Debug\linqdemo.pdb
+C:\Users\grgic\source\repos\linqdemo\linqdemo\obj\Debug\linqdemo.exe
+C:\Users\grgic\source\repos\linqdemo\linqdemo\obj\Debug\linqdemo.pdb

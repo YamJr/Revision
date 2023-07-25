@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\bin\Debug\multiDelegates.exe.config
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\bin\Debug\multiDelegates.exe
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\bin\Debug\multiDelegates.pdb
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\obj\Debug\multiDelegates.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\obj\Debug\multiDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\obj\Debug\multiDelegates.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\obj\Debug\multiDelegates.exe
+C:\Users\grgic\source\repos\Demo\multiDelegates\multiDelegates\obj\Debug\multiDelegates.pdb
