@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+C:\Users\grgic\source\repos\Demo\StructDemo\StructDemo\obj\Debug\StructDemo.pdb
