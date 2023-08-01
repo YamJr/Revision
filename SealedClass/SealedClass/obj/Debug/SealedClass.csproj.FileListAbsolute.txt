@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+C:\Users\grgic\source\repos\Demo\SealedClass\SealedClass\obj\Debug\SealedClass.pdb
