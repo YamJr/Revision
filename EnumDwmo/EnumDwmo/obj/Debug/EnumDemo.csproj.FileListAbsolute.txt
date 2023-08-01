@@ -1,0 +1,8 @@
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\obj\Debug\EnumDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\bin\Debug\EnumDwmo.exe.config
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\bin\Debug\EnumDwmo.exe
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\bin\Debug\EnumDwmo.pdb
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\obj\Debug\EnumDwmo.exe
+C:\Users\grgic\source\repos\Demo\EnumDwmo\EnumDwmo\obj\Debug\EnumDwmo.pdb
